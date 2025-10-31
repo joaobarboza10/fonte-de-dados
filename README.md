@@ -6,4 +6,5 @@ CONT.VALORES(): conta o número de células que contêm valores em um intervalo 
 MÁXIMOSES(): encontra o maior valor em um intervalo que corresponda a uma ou mais condições.
 CORRESP(): procura um valor em um intervalo e retorna a posição desse valor dentro do intervalo.
 ÍNDICE(): etorna o valor de uma célula em um intervalo, com base em um número de linha e coluna especificados.
-## atividade 3: manipulação de dados de importação e exportação e elaboração do dashboard
+## atividade 3: manipulação de dados de importação/exportação e elaboração do dashboard
+colocar bandeiras, fazer visualizações em gráficos de linha e tabelas
