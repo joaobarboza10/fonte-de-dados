@@ -7,4 +7,6 @@ MÁXIMOSES(): encontra o maior valor em um intervalo que corresponda a uma ou ma
 CORRESP(): procura um valor em um intervalo e retorna a posição desse valor dentro do intervalo.
 ÍNDICE(): etorna o valor de uma célula em um intervalo, com base em um número de linha e coluna especificados.
 ## atividade 3: manipulação de dados de importação/exportação e elaboração do dashboard
-colocar bandeiras, fazer visualizações em gráficos de linha e tabelas
+colocar bandeiras, fazer visualizações em gráficos de linha e tabelas.
+## atividade 4: banco de dados sobre venda de sorvetes
+elaboração de gráfico e tabela sobre vendas de sorvetes em função da temperatura, utilizando excel e collab.
