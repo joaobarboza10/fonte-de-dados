@@ -10,3 +10,5 @@ CORRESP(): procura um valor em um intervalo e retorna a posição desse valor de
 colocar bandeiras, fazer visualizações em gráficos de linha e tabelas.
 ## atividade 4: banco de dados sobre venda de sorvetes
 elaboração de gráfico e tabela sobre vendas de sorvetes em função da temperatura, utilizando excel e collab.
+## atividade 5: análise de dados sobre salário 
+elaboração de gráfico e tabela sobre salário em função do tempo de experiência, utilizando excel e collab.
