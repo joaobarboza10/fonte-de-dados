@@ -21,4 +21,5 @@ elaboração de gráfico e tabela sobre vendas de sorvetes em função da temper
 
 ## Atividade 5: análise de dados sobre salário 
 elaboração de gráfico e tabela sobre salário em função do tempo de experiência, utilizando excel e colab.
+<img width="998" height="818" alt="image" src="https://github.com/user-attachments/assets/dba02077-00a4-45a1-b969-1d34ed77b667" />
 
