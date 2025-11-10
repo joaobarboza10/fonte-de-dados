@@ -16,6 +16,8 @@ colocar bandeiras, fazer visualizações em gráficos de linha e tabelas.
 
 ## Atividade 4: banco de dados sobre venda de sorvetes
 elaboração de gráfico e tabela sobre vendas de sorvetes em função da temperatura, utilizando excel e colab.
+<img width="1037" height="818" alt="image" src="https://github.com/user-attachments/assets/b8c2a64d-0fce-40a9-ba08-818772672118" />
+
 
 ## Atividade 5: análise de dados sobre salário 
 elaboração de gráfico e tabela sobre salário em função do tempo de experiência, utilizando excel e colab.
