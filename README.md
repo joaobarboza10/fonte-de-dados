@@ -11,11 +11,11 @@ CORRESP(): procura um valor em um intervalo e retorna a posição desse valor de
 ÍNDICE(): etorna o valor de uma célula em um intervalo, com base em um número de linha e coluna especificados.
 <img width="1414" height="282" alt="image" src="https://github.com/user-attachments/assets/7d77a8f2-7254-4bdc-b3eb-9bb73634cc13" />
 
-## Atividade 3: manipulação de dados de importação/exportação e elaboração do dashboard
+## Atividade 3: introdução a manipulação de dados de importação/exportação e elaboração do dashboard
 colocar bandeiras, fazer visualizações em gráficos de linha e tabelas.
 <img width="763" height="626" alt="image" src="https://github.com/user-attachments/assets/9a6e1650-f19a-4470-a179-6c2b0d11e61e" />
 
-## Atividade 4: banco de dados sobre venda de sorvetes
+## Atividade 4: análise de dados sobre venda de sorvetes
 elaboração de gráfico e tabela sobre vendas de sorvetes em função da temperatura, utilizando excel e colab.
 <img width="1037" height="818" alt="image" src="https://github.com/user-attachments/assets/b8c2a64d-0fce-40a9-ba08-818772672118" />
 
