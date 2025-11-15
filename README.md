@@ -13,6 +13,7 @@ CORRESP(): procura um valor em um intervalo e retorna a posição desse valor de
 
 ## Atividade 3: manipulação de dados de importação/exportação e elaboração do dashboard
 colocar bandeiras, fazer visualizações em gráficos de linha e tabelas.
+<img width="763" height="626" alt="image" src="https://github.com/user-attachments/assets/9a6e1650-f19a-4470-a179-6c2b0d11e61e" />
 
 ## Atividade 4: banco de dados sobre venda de sorvetes
 elaboração de gráfico e tabela sobre vendas de sorvetes em função da temperatura, utilizando excel e colab.
