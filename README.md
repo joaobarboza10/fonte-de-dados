@@ -24,3 +24,5 @@ elaboração de gráfico e tabela sobre vendas de sorvetes em função da temper
 elaboração de gráfico e tabela sobre salário em função do tempo de experiência, utilizando excel e colab.
 <img width="998" height="818" alt="image" src="https://github.com/user-attachments/assets/dba02077-00a4-45a1-b969-1d34ed77b667" />
 
+## Prova 28/11
+<img width="1911" height="1071" alt="image" src="https://github.com/user-attachments/assets/5b4e16ff-987a-4e5e-940e-f13c039fd12c" />
